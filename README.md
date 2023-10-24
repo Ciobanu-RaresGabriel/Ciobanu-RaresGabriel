@@ -8,11 +8,11 @@ I hold a deep fascination for every aspect of software development. I have a par
 
 ### Current Focus
 
-At present, I'm committed to refining my skills in C programming and delving into the world of embedded systems. I'm also immersing myself in the intricacies/complexity of software engineering.
+I am currently committed to improving my skills in C programming and delving into the world of embedded systems. I'm also immersing myself in the intricacies/complexity of software engineering.
 
 ### Collaboration
 
-I'm actively seeking opportunities to contribute to projects across the entire software development spectrum, positions related to C programming, testing and requirements, among others.
+I'm actively seeking opportunities to contribute to projects across the entire software development spectrum, positions related to C programming, testing, and requirements, among others.
 
 ### Approach
 
